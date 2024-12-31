@@ -1,5 +1,5 @@
-# DeSci Meme Token
-
+# Braindotfun
+Decentralize Science + Meme
 Smart contract for creating and managing research-based meme tokens on the Flow EVM testnet.
 
 ## Overview
